@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Boyu-Mi(米 博宇)
 - 👀 I’m an undergraduate of Zhejiang University, HangZhou, PR China
-- 🌱 I’m currently learning DeepLearning, CV and NLP
 - 📫 How to reach me miboyu@zju.edu.cn 
 
 <!---
