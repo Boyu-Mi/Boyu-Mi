@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Boyu-Mi(米 博宇)
-- 👀 I’m an undergraduate of Zhejiang University, HangZhou, PR China
+- 👀 I’m an undergraduate at Zhejiang University, HangZhou, PR China
 - 📫 How to reach me miboyu@zju.edu.cn 
 
 <!---
